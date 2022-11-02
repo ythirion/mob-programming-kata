@@ -92,6 +92,9 @@ Use [mobtime](https://mobti.me/) and configure below roles :
 - Anticipate what can be crappier
 - Write down ideas that emerge in his/he minds and other ideas as well
 
+### Crappy ideas
+If at one point you struggle to find crappy ideas here is a cheat sheet of [crappy ideas](files/crappy-ideas.pdf).
+
 ### Review
 At the end, each mob presents the new version of the production code
 
