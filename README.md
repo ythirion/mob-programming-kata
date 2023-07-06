@@ -112,3 +112,4 @@ Take a few minutes to reflect and ask questions :
 - [Puzzle-Driven Development](https://www.yegor256.com/2010/03/04/pdd.html)
 - [Crappy-Driven Development](https://github.com/ythirion/crappy-driven-development)
 - [Mobtime](https://mobti.me/)
+- [Ensemble Enablers](https://proagileab.github.io/EnsembleEnablers/)
