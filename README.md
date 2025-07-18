@@ -2,7 +2,7 @@
 ## Connection - Web Hunt (10')
 In pairs, deep dive into the workshop topic - 5':
 - What is `mob programming`? 
-  - What is the difference between `mob programming` and `ensemble programming`?
+  - What is the difference between `mob programming`, `ensemble programming`, `software teaming`?
 - What values can it bring?
 
 Group sharing - 5'
